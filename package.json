@@ -11,9 +11,9 @@
     "build-client": "cd client && npm run build && cd .."
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.4",
     "eth-registry": "^1.1.8",
-    "express": "^4.16.3",
+    "express": "^4.22.0",
     "fs": "0.0.2",
     "lodash": "^4.17.10",
     "mngen": "^1.1.0",
